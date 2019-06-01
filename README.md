@@ -34,7 +34,7 @@ Baseado na necessidade de automatizar alguns serviços de saúde, o sistema ter�
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
 
-https://github.com/Ana-Ichimura/Tratamento-Efetivo/blob/master/Tabela%20de%20dados.xlsx
+https://docs.google.com/spreadsheets/d/1UkgyObiNi1nuMsuW16i31sKnKO26fzbXvgGhBHmkRZg/edit?usp=sharing
 
 
 ### 5.MODELO CONCEITUAL<br>
